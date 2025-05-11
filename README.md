@@ -4,26 +4,22 @@ I am Błażej. Creating web applications is for me more than only job. It is my 
 
 ## 💪 Tags of my skills and technologies I know
 
-### Very Proficient
-`PHP`, `Laravel`, `Angular`, `Nebular`, `CoreUI`, `Composer`, `NPM`, `WordPress management`, `Creating templates for WorPress`, `MySQL`, `MSSQL`, `PostgreSQL`, `GIT`, `GitHub`, `GitLab`, `Jira`, `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery`, `AJAX`, `SASS`, `LESS`, `Adobe Photoshop`
+### Tools I Use on a Daily Basis
+`PHP` `Laravel` `Eloquent` `Composer` `RESTful-APIs` `Angular` `CSR` `TypeScript` `RxJS` `NgRx` `i18n` `CoreUI` `Nebular` `NPM` `HTML` `CSS` `SASS` `Bootstrap` `JavaScript` `jQuery` `AJAX` `WordPress` `Photoshop` `MySQL` `MSSQL` `PostgreSQL` `GIT` `GitHub` `GitLab` `Docker` `Monorepo` `Jira`
 
-### Proficient
-`React.js`, `Linux system administration for web projects`, `Tailwind CSS`, `Creating templates for WooCommerce`, `Audacity`, `Adobe Illustrator (Creating and cutting layouts/simple advertising graphics)`, `Adobe Premiere Pro (Creating and editing video/audio)`, `Adobe Audition` 
-
-### Basic Knowledge
-`Symfony`, `Basic knowledge of C# (for Unity)`
+### Tools I Have Basic Experience With
+`React.js` `Vite` `E2E Testing` `Cypress` `Unit Testing` `Karma` `Jasmine` `Tailwind CSS` `LESS` `Symfony` `Linux System Administration` `C# (Unity)` `WooCommerce` `Adobe Premiere Pro` `Adobe Audition` `Audacity` `Adobe Illustrator`
 
 ## 💡 Soft Skills
 
-- **Communication**: Excellent communication skills both verbally and in writing.
-- **Problem Solving**: Ability to effectively solve problems and make decisions.
-- **Teamwork**: Experience working in teams and collaborating with others.
-- **Creativity**: Creative approach to problem-solving and generating new ideas.
-- **Independence**: Ability to learn independently and handle new challenges.
-- **Organization**: Excellent time and resource management skills, ability to manage multiple tasks simultaneously.
-- **Dedication**: Commitment and dedication to achieving goals and projects.
-- **Flexibility**: Ability to adapt to changing situations and flexible approach to work.
-- **Initiative**: Proactive approach to taking action and taking initiative in achieving goals.
+- **Communication**: I communicate clearly and effectively, both in person and in writing.
+- **Problem-Solving**: I enjoy challenges and can analyze situations to find practical solutions.
+- **Teamwork**: I enjoy working with others and see collaboration as a strength, not a struggle.
+- **Creativity**: I'm full of ideas and love finding simple, smart solutions.
+- **Independence**: I learn quickly and can work on my own, adapting easily to new situations.
+- **Organization**: I manage my time well and can handle multiple tasks without losing focus.
+- **Commitment**: When I start something, I give it my full attention and aim to see it through.
+- **Initiative**: I don't wait to be told what to do — I often take the lead and propose ideas.
 
 ## 🌟 My example projects
 
