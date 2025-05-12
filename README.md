@@ -5,10 +5,10 @@ I am Błażej. Creating web applications is for me more than only job. It is my 
 ## 💪 Tags of my skills and technologies I know
 
 ### Tools I Use on a Daily Basis
-`PHP` `Laravel` `Eloquent` `Composer` `RESTful-APIs` `Angular` `CSR` `TypeScript` `RxJS` `NgRx` `i18n` `CoreUI` `Nebular` `NPM` `HTML` `CSS` `SASS` `Bootstrap` `JavaScript` `jQuery` `AJAX` `WordPress` `Photoshop` `MySQL` `MSSQL` `PostgreSQL` `GIT` `GitHub` `GitLab` `Docker` `Monorepo` `Jira`
+`PHP` `Laravel` `Eloquent` `Composer` `RESTful-APIs` `Angular` `CSR` `TypeScript` `RxJS` `NgRx` `i18n` `CoreUI` `Nebular` `NPM` `HTML` `CSS` `SASS` `Bootstrap` `JavaScript` `WordPress` `Photoshop` `MySQL` `MSSQL` `PostgreSQL` `GIT` `GitHub` `GitLab` `Docker` `Monorepo` `Jira`
 
 ### Tools I Have Basic Experience With
-`React.js` `Vite` `E2E Testing` `Cypress` `Unit Testing` `Karma` `Jasmine` `Tailwind CSS` `LESS` `Symfony` `Linux System Administration` `C# (Unity)` `WooCommerce` `Adobe Premiere Pro` `Adobe Audition` `Audacity` `Adobe Illustrator`
+`React.js` `Vite` `E2E Testing` `Cypress` `Unit Testing` `Karma` `Jasmine` `jQuery` `AJAX` `Tailwind CSS` `LESS` `Symfony` `Linux System Administration` `C# (Unity)` `WooCommerce` `Adobe Premiere Pro` `Adobe Audition` `Audacity` `Adobe Illustrator`
 
 ## 💡 Soft Skills
 
