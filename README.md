@@ -1,55 +1,88 @@
-# 🚀 Hello! 
+# 👋 Hi, I'm Błażej
 
-I am Błażej. Creating web applications is for me more than only job. It is my hobby and fantastic way for creative spending a free time. I love Laravel, Angular and WordPress, but I am open to learning new technologies. I realized solo projects and also in group. I can work in front-end and back-end. I know the basics of working in a Linux terminal. I can create technical documentation. I’m good in planning and realising my projects.
+Full Stack Developer | Angular & Laravel | Business Process Automation | Internal systems for companies
 
-## 💪 Tags of my skills and technologies I know
+I build web applications that streamline operational processes and support the daily work of organizations. I specialize in internal systems, process digitization, and end-to-end development (front-end + back-end).
 
-### Tools I Use on a Daily Basis
-`PHP` `Laravel` `Eloquent` `Composer` `RESTful-APIs` `Angular` `CSR` `TypeScript` `RxJS` `NgRx` `i18n` `CoreUI` `Nebular` `NPM` `HTML` `CSS` `SASS` `Bootstrap` `JavaScript` `WordPress` `Photoshop` `MySQL` `MSSQL` `PostgreSQL` `GIT` `GitHub` `GitLab` `Docker` `Monorepo` `Jira`
+---
 
-### Tools I Have Basic Experience With
-`React.js` `Vite` `E2E Testing` `Cypress` `Unit Testing` `Karma` `Jasmine` `jQuery` `AJAX` `Tailwind CSS` `LESS` `Symfony` `Linux System Administration` `C# (Unity)` `WooCommerce` `Adobe Premiere Pro` `Adobe Audition` `Audacity` `Adobe Illustrator`
+## 🛠 Tech Stack
 
-## 💡 Soft Skills
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest-api&logoColor=white)
 
-- **Communication**: I communicate clearly and effectively, both in person and in writing.
-- **Problem-Solving**: I enjoy challenges and can analyze situations to find practical solutions.
-- **Teamwork**: I enjoy working with others and see collaboration as a strength, not a struggle.
-- **Creativity**: I'm full of ideas and love finding simple, smart solutions.
-- **Independence**: I learn quickly and can work on my own, adapting easily to new situations.
-- **Organization**: I manage my time well and can handle multiple tasks without losing focus.
-- **Commitment**: When I start something, I give it my full attention and aim to see it through.
-- **Initiative**: I don't wait to be told what to do — I often take the lead and propose ideas.
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=rxjs&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-E23237?style=for-the-badge&logo=ngrx&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🌟 My example projects
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Laravel**
-- [Laravel API](https://github.com/Angir777/project-api)
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-FC6A0B?style=for-the-badge&logo=apache&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Angular**
-- [Angular APP](https://github.com/Angir777/project-angular)
+---
 
-**React**
-- [React APP](https://github.com/Angir777/project-react)
+## 🌟 Featured Projects
 
-**WordPress themes**
-- [Vapautta](https://github.com/Angir777/vapautta)
-- [FortyFour](https://github.com/Angir777/fortyfour)
+### Laravel
+- [Laravel API](https://github.com/Angir777/project-api) – RESTful API demo application.
 
-**WordPress WooCommerce themes**
-- [EightyEight](https://github.com/Angir777/eightyeight)
+### Angular
+- [Angular APP](https://github.com/Angir777/project-angular) – Front-end demo application.
 
-**Pure PHP**
-- [Baboki Shop](https://github.com/Angir777/baboki)
-- [Secure login page in vanilla PHP](https://github.com/Angir777/hype)
+### React
+- [React APP](https://github.com/Angir777/project-react) – Front-end demo application.
 
-**Unity**
-- [TRUCK DELIVERY](https://play.unity.com/en/games/e16f09b7-a8a4-4839-a357-da242b6f1065/truck-delivery)
-- [DicePoker](https://github.com/Angir777/DicePoker)
+### WordPress
+- [Vapautta](https://github.com/Angir777/vapautta) – Custom WordPress theme  
+- [FortyFour](https://github.com/Angir777/fortyfour) – Custom WordPress theme  
+- [EightyEight](https://github.com/Angir777/eightyeight) – WooCommerce theme
 
-## 📞 Contact
+### Pure PHP
+- [Baboki Shop](https://github.com/Angir777/baboki) – Pure PHP online store
+- [Secure login page](https://github.com/Angir777/hype) – Secure Login Page in Vanilla PHP
 
-Do you want to contact with me? You can find me on:
-- 💼 LinkedIn: [Błażej Skrzypniak](https://www.linkedin.com/in/skrzypniak/)
+### Unity
+- [TRUCK DELIVERY](https://play.unity.com/en/games/e16f09b7-a8a4-4839-a357-da242b6f1065/truck-delivery) – C# Game in Unity
 
-Thank you for visiting my portfolio! Have a nice day!
+---
+
+## 💡 Key Achievements
+
+- ✅ Streamlined business processes across multiple departments
+- ✅ Minimized errors caused by manual data handling
+- ✅ Implemented internal systems improving process transparency, control, and accountability
+
+---
+
+## 🤝 Soft Skills
+
+**Communication | Problem-Solving | Teamwork | Creativity | Initiative | Organization**
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn: [Błażej Skrzypniak](https://www.linkedin.com/in/skrzypniak/)  
+
+---
+
+> Thank you for visiting my GitHub! 🚀
