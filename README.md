@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Błażej
 
-Full Stack Developer | Angular & Laravel | Business Process Automation | Internal systems for companies
+Full Stack Developer | Angular + Laravel | Internal systems for companies
 
 I build web applications that streamline operational processes and support the daily work of organizations. I specialize in internal systems, process digitization, and end-to-end development (front-end + back-end).
 
