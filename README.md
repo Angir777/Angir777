@@ -15,7 +15,7 @@ I build web applications that streamline operational processes and support the d
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Pest](https://img.shields.io/badge/PestPHP-000000?style=for-the-badge&logo=pestphp&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pestphp&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
