@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Błażej
 
-Full Stack Developer | Angular + Laravel | Internal systems for companies
+Full Stack Developer • Angular • Laravel • React
 
-I build web applications that streamline operational processes and support the daily work of organizations. I specialize in internal systems, process digitization, and end-to-end development (front-end + back-end).
+I help organizations improve and automate processes by building dedicated web systems. I specialize in web applications for production, HR, and finance. Especially in areas where consistent data, repeatable processes, and the reliability of the systems being built are critical.
 
 ---
 
@@ -13,7 +13,6 @@ I build web applications that streamline operational processes and support the d
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest-api&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pestphp&logoColor=white)
 
@@ -34,13 +33,15 @@ I build web applications that streamline operational processes and support the d
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-FC6A0B?style=for-the-badge&logo=apache&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
