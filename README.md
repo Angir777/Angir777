@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Błażej
 
-Full Stack Developer • Angular • Laravel • React
+I’m a Fullstack Developer with 5+ years of commercial experience building product web applications with Angular, React, TypeScript and Laravel.
 
-I help organizations improve and automate processes by building dedicated web systems. I specialize in web applications for production, HR, and finance. Especially in areas where consistent data, repeatable processes, and the reliability of the systems being built are critical.
+I work end-to-end, from business requirements analysis, through architecture design and implementation, to deployment and maintenance of production systems.
+
+In my solutions, I focus on clarity, real business value, and system reliability.
+
+I am an open-minded, self-driven, and committed professional. I am highly organized, manage my time effectively, and consistently deliver assigned tasks.
 
 ---
 
