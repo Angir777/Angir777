@@ -92,7 +92,6 @@ I am an open-minded, self-driven, and committed professional. I am highly organi
 ## 📫 Contact
 
 • LinkedIn: [Błażej Skrzypniak](https://www.linkedin.com/in/skrzypniak/)  
-• Email: skrzypniak@op.pl
 • Blog: [medium.com/@angir777](https://www.linkedin.com/in/skrzypniak/](https://medium.com/@angir777)  
 
 ---
