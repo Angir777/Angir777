@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Błażej Skrzypniak Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Błażej
 
 I’m a Fullstack Developer with 5+ years of commercial experience building product web applications with Angular, React, TypeScript and Laravel.
