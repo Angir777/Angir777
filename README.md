@@ -96,4 +96,6 @@ I am an open-minded, self-driven, and committed professional. I am highly organi
 
 ---
 
-> Thank you for visiting my GitHub! 🚀
+<p align="center">
+Thank you for visiting my GitHub! 🚀
+</p>
