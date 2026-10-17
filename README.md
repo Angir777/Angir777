@@ -61,7 +61,7 @@ I am an open-minded, self-driven, and committed professional. I am highly organi
 ## 🌟 Featured Projects
 
 ### Laravel
-- [Laravel API](https://github.com/Angir777/project-api) – RESTful API demo application.
+- [Basic API in Laravel](https://github.com/Angir777/basic-api-laravel) – RESTful API demo in Laravel.
 
 ### Angular
 - [Angular APP](https://github.com/Angir777/project-angular) – Front-end demo application.
