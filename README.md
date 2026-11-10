@@ -1,18 +1,16 @@
- <p align="center">
+<p align="center">
   <img src="https://github.com/Angir777/Angir777/blob/main/banner2.png" alt="Błażej Skrzypniak Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Błażej 👋</h1>
 
 <p align="center">
-  <strong>Fullstack Developer | Angular · React · Laravel · Java</strong>
+  <strong>Fullstack Developer - Angular · React · Laravel · Java</strong>
 </p>
 
 <p align="center">
   Building reliable web applications with a focus on clean architecture, maintainability and real business value.
 </p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -20,22 +18,20 @@ I'm a Fullstack Developer with 5+ years of commercial experience building and ma
 
 I work across the entire development lifecycle — from understanding business requirements and designing database structures to implementing APIs, building frontend applications, testing, deployment and ongoing maintenance.
 
-My primary technology stack includes **Angular, TypeScript, PHP and Laravel**, with experience in React and growing expertise in Java and Spring Boot.
+My primary technology stack includes **Angular and Laravel**, with experience in React and growing expertise in Java and Spring Boot.
 
 I value clean code, practical solutions, clear communication and software that solves real problems.
-
----
 
 ## 🛠️ Tech Stack
 
 ### Main Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
@@ -79,8 +75,6 @@ I value clean code, practical solutions, clear communication and software that s
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
