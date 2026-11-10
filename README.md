@@ -1,15 +1,19 @@
-<p align="center">
+ <p align="center">
   <img src="https://github.com/Angir777/Angir777/blob/main/banner2.png" alt="Błażej Skrzypniak Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Błażej 👋</h1>
 
+<h3 align="center">Fullstack Developer</h3>
+
 <p align="center">
-  <strong>Fullstack Developer - Angular · React · Laravel · Java</strong>
+  Angular · React · Laravel · Java · Spring Boot
 </p>
 
 <p align="center">
-  Building reliable web applications with a focus on clean architecture, maintainability and real business value.
+  I design and build web applications, from backend architecture and REST APIs to modern frontend interfaces.
+  <br>
+  Focused on clean code, maintainable solutions and real business value.
 </p>
 
 ## 👨‍💻 About Me
