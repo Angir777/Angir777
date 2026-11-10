@@ -111,15 +111,6 @@ A selection of my projects and experiments.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angir777&show_icons=true&theme=transparent&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angir777&layout=compact&theme=transparent&hide_border=true" height="165">
-</p>
-
----
-
 ## 📫 Get in Touch
 
 <p>
