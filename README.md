@@ -92,19 +92,6 @@ A selection of my projects and experiments.
 | [EightyEight](https://github.com/Angir777/eightyeight) | WooCommerce | Custom WooCommerce theme |
 | [Truck Delivery](https://play.unity.com/en/games/e16f09b7-a8a4-4839-a357-da242b6f1065/truck-delivery) | Unity / C# | 3D game project |
 
----
-
-## 🤝 Soft Skills
-
-- Communication & teamwork
-- Problem-solving
-- Analytical thinking
-- Creativity & initiative
-- Organization & time management
-- Independent work and ownership
-
----
-
 ## 📫 Get in Touch
 
 <p>
