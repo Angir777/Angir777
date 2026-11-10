@@ -1,101 +1,138 @@
-<p align="center">
+ <p align="center">
   <img src="https://github.com/Angir777/Angir777/blob/main/banner2.png" alt="Błażej Skrzypniak Banner" width="100%">
 </p>
 
-# 👋 Hi, I'm Błażej
+<h1 align="center">Hi, I'm Błażej 👋</h1>
 
-I’m a Fullstack Developer with 5+ years of commercial experience building product web applications with Angular, React, TypeScript and Laravel.
+<p align="center">
+  <strong>Fullstack Developer | Angular · React · Laravel · Java</strong>
+</p>
 
-I work end-to-end, from business requirements analysis, through architecture design and implementation, to deployment and maintenance of production systems.
-
-In my solutions, I focus on clarity, real business value, and system reliability.
-
-I am an open-minded, self-driven, and committed professional. I am highly organized, manage my time effectively, and consistently deliver assigned tasks.
+<p align="center">
+  Building reliable web applications with a focus on clean architecture, maintainability and real business value.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest-api&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pestphp&logoColor=white)
+I'm a Fullstack Developer with 5+ years of commercial experience building and maintaining web applications.
+
+I work across the entire development lifecycle — from understanding business requirements and designing database structures to implementing APIs, building frontend applications, testing, deployment and ongoing maintenance.
+
+My primary technology stack includes **Angular, TypeScript, PHP and Laravel**, with experience in React and growing expertise in Java and Spring Boot.
+
+I value clean code, practical solutions, clear communication and software that solves real problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Main Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=rxjs&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-E23237?style=for-the-badge&logo=ngrx&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=rxjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NgRx-E23237?style=flat-square&logo=ngrx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-FC6A0B?style=for-the-badge&logo=apache&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pest-000000?style=flat-square&logo=pestphp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### Laravel
-- [Basic API in Laravel](https://github.com/Angir777/basic-api-laravel) – RESTful API demo in Laravel.
+A selection of my projects and experiments.
 
-### Angular
-- [Angular APP](https://github.com/Angir777/project-angular) – Front-end demo application.
-
-### React
-- [React APP](https://github.com/Angir777/project-react) – Front-end demo application.
-
-### WordPress
-- [Vapautta](https://github.com/Angir777/vapautta) – Custom WordPress theme  
-- [FortyFour](https://github.com/Angir777/fortyfour) – Custom WordPress theme  
-- [EightyEight](https://github.com/Angir777/eightyeight) – WooCommerce theme
-
-### Pure PHP
-- [Baboki Shop](https://github.com/Angir777/baboki) – Pure PHP online store
-- [Secure login page](https://github.com/Angir777/hype) – Secure Login Page in Vanilla PHP
-
-### Unity
-- [TRUCK DELIVERY](https://play.unity.com/en/games/e16f09b7-a8a4-4839-a357-da242b6f1065/truck-delivery) – C# Game in Unity
+| Project | Technology | Description |
+|---|---|---|
+| [Basic API](https://github.com/Angir777/basic-api-laravel) | Laravel | RESTful API implementation |
+| [Angular APP](https://github.com/Angir777/project-angular) | Angular | Frontend application |
+| [React APP](https://github.com/Angir777/project-react) | React | Frontend application |
+| [Baboki Shop](https://github.com/Angir777/baboki) | PHP | Online store built with pure PHP |
+| [Secure Login](https://github.com/Angir777/hype) | PHP | Secure authentication system |
+| [Vapautta](https://github.com/Angir777/vapautta) | WordPress | Custom WordPress theme |
+| [FortyFour](https://github.com/Angir777/fortyfour) | WordPress | Custom WordPress theme |
+| [EightyEight](https://github.com/Angir777/eightyeight) | WooCommerce | Custom WooCommerce theme |
+| [Truck Delivery](https://play.unity.com/en/games/e16f09b7-a8a4-4839-a357-da242b6f1065/truck-delivery) | Unity / C# | 3D game project |
 
 ---
 
 ## 🤝 Soft Skills
 
-**Communication | Problem-Solving | Teamwork | Creativity | Initiative | Organization**
+- Communication & teamwork
+- Problem-solving
+- Analytical thinking
+- Creativity & initiative
+- Organization & time management
+- Independent work and ownership
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-• LinkedIn: [Błażej Skrzypniak](https://www.linkedin.com/in/skrzypniak)
-• Blog: [medium.com](https://medium.com/@angir777)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Angir777&show_icons=true&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angir777&layout=compact&theme=transparent&hide_border=true" height="165">
+</p>
+
+---
+
+## 📫 Get in Touch
+
+<p>
+  <a href="https://www.linkedin.com/in/skrzypniak">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@angir777">
+    <img src="https://img.shields.io/badge/Medium-Read_My_Blog-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-Thank you for visiting my GitHub! 🚀
+  Thanks for visiting my profile! 🚀
 </p>
