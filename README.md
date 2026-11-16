@@ -87,7 +87,7 @@ A selection of my projects and experiments.
 | Project | Technology | Description |
 |---|---|---|
 | [Basic API](https://github.com/Angir777/basic-api-laravel) | Laravel | RESTful API implementation |
-| [Angular APP](https://github.com/Angir777/project-angular) | Angular | Frontend application |
+| [Angular APP](https://github.com/Angir777/basic-app-angular) | Angular | Frontend application |
 | [React APP](https://github.com/Angir777/project-react) | React | Frontend application |
 | [Baboki Shop](https://github.com/Angir777/baboki) | PHP | Online store built with pure PHP |
 | [Secure Login](https://github.com/Angir777/hype) | PHP | Secure authentication system |
